@@ -1,0 +1,23 @@
+{
+  "name": "Kakhaber",
+  "email": "kakha23+test@gmail.com",
+  "password": "KakhaSecure#123",
+  "days": "21",
+  "months": "July",
+  "years": "1994",
+  "firstName": "Kakha",
+  "lastName": "Makharashvili",
+  "company": "Academy",
+  "address": "Rustaveli Ave 123",
+  "address2": "Tbilisi Center",
+  "country": "Canada",
+  "state": "Tbilisi",
+  "city": "Tbilisi",
+  "zipcode": "0101",
+  "mobileNumber": "599123456",
+  "signupForm": "New User Signup!",
+  "acc": "Account Created!",
+  "logged": "Logged in as Kakhaber",
+  "accdel": "Account Deleted!",
+  "incorrect": "Your email or password is incorrect!"
+}
