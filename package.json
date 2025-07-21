@@ -15,5 +15,8 @@
     "url": "https://github.com/kmakharashvili/Cypress-KM/issues"
   },
   "homepage": "https://github.com/kmakharashvili/Cypress-KM#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
 }
