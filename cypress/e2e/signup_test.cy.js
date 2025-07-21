@@ -1,8 +1,8 @@
 import userData from '../fixtures/userData.json';
 
 describe('Signup and Login Tests', () => {
-  beforeEach(() => {
-    cy.visit('/');
+  beforeEach('visit homepage' , () => {
+    cy.visit('https://www.automationexercise.com');
     cy.get('body').should('be.visible');
   });
 
