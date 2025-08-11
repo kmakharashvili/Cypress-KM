@@ -1,1 +1,1 @@
-import './authCommands';
+import './Commands';
